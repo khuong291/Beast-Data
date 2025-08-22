@@ -1,0 +1,2642 @@
+[
+  {
+    "key": "lion",
+    "name": "Lion",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/lion.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "d48bd972-3b6e-4312-8719-e5e66ae9bfcb"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f9b908d5-e86e-4256-8bd0-d8020639b585"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "802adf2d-e619-4ac7-8f4c-3ff15972e752"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "54856e2f-f8ca-4a30-a2d6-0321d30da5d9"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "6d4e4820-544f-4aad-a959-a70f70af80cb"
+      }
+    ],
+    "id": "b8c1262b-3c1a-4303-b91a-90a30a3bd1f4"
+  },
+  {
+    "key": "elephant",
+    "name": "Elephant",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/elephant.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "69e75ca8-a23e-444e-bde7-f8123f55cbf1"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e2f9d780-87b8-4423-936a-5e1f2a3c1f76"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "9484ea32-1a07-460d-9bd3-3c41007aae32"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "8e959195-b6ca-4f0c-a92c-134ff7221ac7"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "8ac2f88e-4aa6-4dc2-a48d-8f55005503f3"
+      }
+    ],
+    "id": "efab4ef4-207f-4621-88a5-a0efee813407"
+  },
+  {
+    "key": "tiger",
+    "name": "Tiger",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/tiger.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "7dbd5b45-0992-43d9-9f6a-3475231e920d"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e47aafa3-cc64-40d9-b981-f4260a2f78e5"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "00967abd-2149-4ef4-b9cb-8010dfbb589b"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "979d684b-f954-452a-99ef-9a7d03f9c8c8"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "9506f500-f165-4b0a-a2e0-a266f1dd2f91"
+      }
+    ],
+    "id": "78bfc52c-2fb8-4a23-b35c-845f48ea0024"
+  },
+  {
+    "key": "giraffe",
+    "name": "Giraffe",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/giraffe.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "ee19dd8e-6b8c-46ab-b0f0-320e7f53334c"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "ae14ea7e-9dea-47ff-972e-965a5bd7e4b2"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "6952d066-ed97-4af4-8c8a-fdd4903d9090"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "d470ff25-5b1e-4e65-863a-0c5bbdec1b05"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e3ef87da-fb59-4683-9fc3-bfb9a91762b1"
+      }
+    ],
+    "id": "ca4eb077-2be6-4e9c-ad77-d8e156e11054"
+  },
+  {
+    "key": "zebra",
+    "name": "Zebra",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/zebra.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "0855b92a-2b89-4046-b4c8-a783724f87bc"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "09ec9042-e41e-4e52-bd31-dadbf91d2222"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "14fa7c18-bcc8-4bc6-9d96-45f829818a73"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "6ab41e27-d66e-462f-affe-c98c21d0074d"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "279953af-90b7-461b-92e9-c4891ecfc141"
+      }
+    ],
+    "id": "2dc0a80d-a2fa-44ff-80db-b1b2bb95c89d"
+  },
+  {
+    "key": "wolf",
+    "name": "Wolf",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/wolf.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "4bf0c6c9-6c74-4c73-a7ab-3cc7e4427cd0"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "923531d6-232f-443f-a816-502a97f18ab9"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "91208cd1-6a62-4bef-943d-c661d79a8f0a"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a9bd18f5-5edb-486d-82e0-42ae279afe5a"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "a33f78fc-053c-43e7-bb5d-81a517997d34"
+      }
+    ],
+    "id": "9b1d4e3a-3252-4cdd-96e3-86f349ecc922"
+  },
+  {
+    "key": "kangaroo",
+    "name": "Kangaroo",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/kangaroo.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "8d36b1f4-db36-4e67-9534-2a8c8eedf09c"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "9ed15fb9-6873-4936-901c-367a25e0dd95"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "5f58a72c-68e9-4b30-ada6-94a050322d32"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "6719b749-555a-45a4-bb9b-04f65d53b349"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "542e2286-1e79-4fb7-8d05-41d0ac9a88f5"
+      }
+    ],
+    "id": "9d65a02d-ae06-457b-8162-5372969390c1"
+  },
+  {
+    "key": "panda",
+    "name": "Panda",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/panda.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "f047d68d-bfd5-49c8-a832-062cbb6e56ca"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1ae5e309-d035-4175-b4fd-98d8dc5327c6"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "f9c0ca54-bb1e-4226-907a-9a3b514a49bf"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "ad352daf-500f-4614-bf30-b73fc1618b1a"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "9323f846-4cc4-4c93-afca-042175f2eb86"
+      }
+    ],
+    "id": "839f24b8-bb1a-4bf5-918e-21f945684d5c"
+  },
+  {
+    "key": "bear",
+    "name": "Bear",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/bear.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "7fdc383f-1a6f-4b23-a00f-1c36ffce1b46"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "0eedbbfd-1a2b-4ca0-82e7-84f82c509fd0"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "971e837e-f8c9-4606-abfa-382afbcf91d4"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a35a940b-4482-4ab8-92ec-606ef3a9317c"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "191be99d-1ae0-4078-bf34-08134f26ef33"
+      }
+    ],
+    "id": "ca7188bd-87ea-4d6f-8ab3-5298143adedd"
+  },
+  {
+    "key": "fox",
+    "name": "Fox",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/fox.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a5b0f713-ebc5-42cd-9339-2bfd1f3d7635"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "86e0f7eb-5123-409e-bd2a-5ecbe3f66e15"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "fce62cdb-fc5c-4210-b95d-b02e335a9045"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "560f45d0-2319-4b90-9d4b-ca309b6eab8c"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "b4bb4335-4141-45ba-a079-e2783946cf48"
+      }
+    ],
+    "id": "a130d754-3c7b-4a5b-90af-85a4b6f5d152"
+  },
+  {
+    "key": "cheetah",
+    "name": "Cheetah",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/cheetah.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "3204b3de-9b72-43f0-927c-8c7d55128fd3"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "8daa116e-2b52-45a3-8dd2-d063ae8d8072"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "9848b0e8-cf8d-4fd3-9398-703678e84e04"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "bf595379-7ed3-40cc-bb42-83a51bed0ce8"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "111472a4-755b-40d5-9c06-b50ed5ce50c0"
+      }
+    ],
+    "id": "065b044b-7d21-4e6c-8789-5552b339f0e4"
+  },
+  {
+    "key": "hyena",
+    "name": "Hyena",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/hyena.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "68d768b0-2a5e-49de-8a30-54489e323eb5"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "451c4838-b0ec-408c-9f59-be99fef56858"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "11751202-8aba-42fd-b68e-ea6c05d9a2ac"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "637608c0-58c5-497c-8d6b-969898318f81"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "b694adf6-ce78-460b-9ae2-9ca6cb1d635e"
+      }
+    ],
+    "id": "a81160c9-00e7-4cdd-9eb5-00bcf6e547b4"
+  },
+  {
+    "key": "bison",
+    "name": "Bison",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/bison.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "9e3b983a-b0ee-4020-ba64-321cc4145c41"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "6c22cb37-ce30-4e1a-99ef-6929d4848ce8"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "8d5cb6ca-285a-4217-bace-d239ec95a275"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "d78e63f1-d7f5-41e1-8fe6-236e554ef1cc"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1d0ee774-615d-4960-a461-eee92fff17f5"
+      }
+    ],
+    "id": "545768bd-d239-42aa-8667-6cbbee1d0531"
+  },
+  {
+    "key": "camel",
+    "name": "Camel",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/camel.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "debd8326-64a4-4ead-a6dd-7abdbf54c828"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "a8ce3b0f-9925-4918-a085-53bf6509e786"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "596d232a-e3f7-4d8e-b98e-1950eb678302"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "c24eb576-9949-472c-9b81-99127ef5090d"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "52f466d7-6e07-498f-b915-0ca3803e3965"
+      }
+    ],
+    "id": "cc63f176-7bdc-48b2-a7de-9f1775845d7e"
+  },
+  {
+    "key": "rhinoceros",
+    "name": "Rhinoceros",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/rhinoceros.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "1049e326-4c56-4c03-bc7c-3411199edc3f"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "cc768c8a-cf43-47bf-a578-a97a99de2752"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "cbb4b744-e656-46ee-9e2a-b30f810e1345"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "f364340c-ada2-46e5-99cf-63ea8c919dac"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "df147cee-4ce3-498d-9f9a-30d005bf142b"
+      }
+    ],
+    "id": "d6f29795-9775-484a-b229-691f566d3892"
+  },
+  {
+    "key": "leopard",
+    "name": "Leopard",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/leopard.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "fe426ffa-5673-4831-b711-24ccd1797e50"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "0c38d1af-7159-4b4f-aa31-52a5b2a9383d"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "8a0f75d1-e9d7-4505-9652-689b9eca4224"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "bdec9af6-2f17-4130-bc68-502d203a5fd9"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "d7f29d2a-6a40-4721-b5c3-02c4b6be4b94"
+      }
+    ],
+    "id": "5a2b3680-232a-43c3-b5f9-7188b02f6dd3"
+  },
+  {
+    "key": "chimpanzee",
+    "name": "Chimpanzee",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/chimpanzee.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "d95d1dde-2348-4209-8956-71bfd909afba"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "31482fab-6a8b-4879-a823-f39dbf8bddd1"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "f963821a-d6f5-4589-82c7-e910f15d751b"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a95a5bd5-2f55-4bb8-bacc-60eb486e4d1e"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e3ce7638-79a1-4acf-a271-bb5f08d5d3c3"
+      }
+    ],
+    "id": "140168a5-bb11-40df-a9b2-05f55f7df1ba"
+  },
+  {
+    "key": "hedgehog",
+    "name": "Hedgehog",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/hedgehog.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "bd9c78b1-9a24-4769-8e00-937950a9edc8"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "edb0ba7a-4f82-4299-b015-88e79b9f82ca"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "6a763ea2-f480-4774-81ca-2f0ad0769c14"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "4cf63c89-52f5-4266-a220-dfb54ecdd049"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "94b5324e-7a39-4873-b0fa-fa17346b45da"
+      }
+    ],
+    "id": "656aba02-8cf7-4475-8cd3-6421a0704116"
+  },
+  {
+    "key": "rabbit",
+    "name": "Rabbit",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/rabbit.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "602417ca-84db-440b-9f5d-2396077bcfb9"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "9e62a426-c74f-4785-90f9-69b31b4ff206"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "71883fe4-bbc7-4807-a374-e11acfec52b0"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a71a2376-277c-4e77-8d28-d2af5a6d441a"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "dcdb89f8-2978-40d4-be4c-77b1220cc85a"
+      }
+    ],
+    "id": "16fac489-5745-4aed-80eb-5998a1b3a89a"
+  },
+  {
+    "key": "horse",
+    "name": "Horse",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/horse.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "4eab261f-615b-47f5-927b-1eb28a69f659"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "d151ca11-5351-4cdb-b6eb-4d10821815c5"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "177f2987-3eca-43b9-bdbc-444624ee6026"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "665eca1e-e05d-4a78-baf8-e6a4c7104b76"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "bee3cd6b-5179-4454-866b-ed48eb7d65fc"
+      }
+    ],
+    "id": "6bb6ef4b-2411-4620-b834-7769bd1adaab"
+  },
+  {
+    "key": "crocodile",
+    "name": "Crocodile",
+    "category": "Reptile",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/crocodile.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "8141ee52-ba80-4731-baab-6728a0b32f4e"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "ec97bf10-4f6c-48f5-bc44-65720157e0c3"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "139cd4fb-7877-4f43-b69f-afbb983a5704"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "32d4fa29-d0c8-4368-ba84-d3c7a402b3fa"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "ada43794-2d02-404e-9fc2-a218fcba5b8f"
+      }
+    ],
+    "id": "55e802d7-2a88-411a-ab00-5081432cbbc6"
+  },
+  {
+    "key": "hippopotamus",
+    "name": "Hippopotamus",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/hippopotamus.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "1763cfed-3eea-408e-a014-b2660d746627"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "4e139339-1f52-4571-aeb2-7f0625874ff3"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "54c156ae-5e3c-4938-ab52-12b6e1c66466"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "5bac6917-3951-44aa-b2e7-cdda1ef840d2"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "d62efac4-04fa-474c-9cd3-b9da1fc531ed"
+      }
+    ],
+    "id": "1ad83190-3574-4e8e-914e-cfccadbcca24"
+  },
+  {
+    "key": "otter",
+    "name": "Otter",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/otter.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "6ecb08c6-a357-450d-9043-8de7d7d37dd8"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "648f46d0-97ea-4f69-b3b9-6168db3a034b"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "2153426b-d623-437d-9d28-704f11870498"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a691b9f8-4c86-481a-92f6-7d8af0409b5c"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "2c7fd106-fd37-4a6b-adf7-0ef54c4c51ff"
+      }
+    ],
+    "id": "6e57451f-65b7-4a19-b443-02bc1eebacf9"
+  },
+  {
+    "key": "beaver",
+    "name": "Beaver",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/beaver.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "ce3ed213-d068-4421-8ea2-51293f866a82"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "7e547a73-1722-4302-b999-d605e554a232"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "63a0bc16-ec00-4b54-9641-783ae6d08bc5"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "b6cb0ead-3c83-4ee1-8b30-c7a85f59df98"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "5edfa23b-453a-459a-84bf-3a7077823518"
+      }
+    ],
+    "id": "f51d32d9-f614-419c-9535-535906f2252b"
+  },
+  {
+    "key": "anaconda",
+    "name": "Anaconda",
+    "category": "Reptile",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/anaconda.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "9e841f7c-132f-45a6-8cd2-5e0fda5de6a7"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "fcb1c8f1-3da9-4910-9087-3a900b9053f8"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "bc7c023c-bc3c-41b0-ab8e-659387979bb3"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "39698960-f710-4cef-803e-93b4cf044fcd"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "54e2b3c7-605f-4e0f-ba85-739940f415fa"
+      }
+    ],
+    "id": "8e746dbb-3bf7-450a-9b6a-48140af6a3fb"
+  },
+  {
+    "key": "piranha",
+    "name": "Piranha",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/piranha.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "3b0aa484-f771-4f4a-82ac-e8f12e8853c3"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "b7234268-8ecb-48ab-a1ef-24e64006fcc4"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "8b806ceb-a39d-435a-a5c8-8b5a98334dbc"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "901637a9-6dff-49cf-b175-ad9e02410103"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "d166bebc-ed65-4c31-8e09-78cae3f67d02"
+      }
+    ],
+    "id": "f1d51a7c-667f-4507-8fb0-68aac3d86c3e"
+  },
+  {
+    "key": "turtle",
+    "name": "Turtle",
+    "category": "Reptile",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/turtle.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "d01b6e75-0b0f-483c-a0b5-d155c56de543"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "0975c275-977c-4f26-829a-b62ad2e6c77d"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "48552a48-98bc-48b5-bd28-a9323322461c"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "e785c34f-f5db-42ea-8bc5-45f8b088d7ba"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1d3396f9-b3c6-4102-a026-becea4efd5fd"
+      }
+    ],
+    "id": "3124a7a7-4a8b-4e1a-8c75-341ee9e6fe57"
+  },
+  {
+    "key": "frog",
+    "name": "Frog",
+    "category": "Amphibian",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/frog.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "f7836197-f0d0-4c2e-bdd5-aa8ea1c6e307"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "ebe09e9d-3165-40a9-bf65-d04330091a75"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "05281129-b317-4bad-b1a7-ada9580b0851"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "1b8a71a0-710e-49b3-a65a-feeb2a80c342"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "a5ef48f8-974b-4b7f-9fc5-d0dccacc4984"
+      }
+    ],
+    "id": "9cd37e05-736c-43be-baa0-b9404bf60bef"
+  },
+  {
+    "key": "duck",
+    "name": "Duck",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/duck.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "28397fd4-2748-4264-a0ee-8157d98ab945"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "7e8f6e80-c917-4674-8772-91aef5be61a2"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "cdef9934-7899-434f-be56-27849ef779e4"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "92cce1b7-2822-4b42-a4be-329c425d5ad7"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f90c2f57-c718-4df6-83f9-c87d58d35323"
+      }
+    ],
+    "id": "2139753c-7210-4136-b6ce-d313a5dbdcf8"
+  },
+  {
+    "key": "swan",
+    "name": "Swan",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/swan.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "4bd7e73f-82fc-42f0-a703-498826576b7c"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f395a0de-eafe-438e-af14-5ae6f970b2ba"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "3b7d2df3-eeb7-426b-b98b-dd428d8687a5"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a1c84bb2-6944-46cc-a5f9-0bbdfd90942d"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "020791fb-6003-43f7-9d35-63de5b74eeef"
+      }
+    ],
+    "id": "6a784dbe-8a73-4de7-82b1-dc7fe5807fda"
+  },
+  {
+    "key": "salmon",
+    "name": "Salmon",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/salmon.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "c8b6d8c7-f3e7-415a-900d-3df7e50cca47"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "544bbdb7-90ad-44ac-a51b-d13d4eae9397"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "46f8470f-a37f-4399-97af-ce341b8cb0fa"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "548866fb-80e3-4757-a604-7aa217e622f7"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1cb2f888-0705-41f6-aa37-50fe77bd13e9"
+      }
+    ],
+    "id": "72b78957-d534-4fd8-9d68-18aa28ced673"
+  },
+  {
+    "key": "catfish",
+    "name": "Catfish",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/catfish.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "10477429-e566-4552-83f6-b312c675e2c5"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "410ab987-5c58-46ba-86a1-21e4b0ed641a"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "e7fe4917-9e0b-44f5-b9d1-07c007a2a366"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "31e686ad-48ac-4d0d-aa35-fa33405e8e68"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "74a97588-da45-4801-ac3d-b8233f7b47b0"
+      }
+    ],
+    "id": "43473484-0005-405a-8d9d-ac2220933b8a"
+  },
+  {
+    "key": "alligator",
+    "name": "Alligator",
+    "category": "Reptile",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/alligator.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "255b0b8a-cbcc-4e98-a0cd-88d0d8e3f3ff"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "55c91b51-3e43-4349-bad0-a6d97e3906a6"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "c1ba2a4c-5d78-40a9-ad00-b95b28d4b29c"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "cd83e316-4f82-4c58-8ca7-38c365a0e072"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "198bbbd0-df63-43a8-8903-11d2239f8fdd"
+      }
+    ],
+    "id": "d8cfc575-a2c3-404b-bd05-cefbda94120d"
+  },
+  {
+    "key": "seal",
+    "name": "Seal",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/seal.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "897a9626-3a85-4bca-86de-d8ea7ad6021c"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "032d4d8f-d331-4fc3-95fe-f4678432d1b7"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "95662c4a-5e46-4216-b84d-8fe09e295cf2"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "15913635-9683-4fa0-9ea4-caf86f0e8c1c"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "9560c717-be36-4440-8c88-f176aa0c0fef"
+      }
+    ],
+    "id": "8aa6ddd1-1a5a-49bf-8fce-bd59ba0a5e4c"
+  },
+  {
+    "key": "platypus",
+    "name": "Platypus",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/platypus.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "e2dd96e4-3dbd-4adb-b23d-c31ad6d9780f"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "5ef5a678-61d5-4ea8-bb98-fcd4f189b251"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "38471388-0de1-498b-be89-df1357ff9c2d"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "d63c79c3-6a56-4edd-bc90-d243827accfc"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1e742354-ba87-4b89-866f-68b5db90906e"
+      }
+    ],
+    "id": "73b1e7a8-3d4c-4ba0-8d4f-36b267890192"
+  },
+  {
+    "key": "eel",
+    "name": "Eel",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/eel.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "40a849a1-d77f-4ebf-bae7-0614c0520f52"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "6a79b0e2-9f71-4dff-9455-aac1dc61e8cf"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "bd9440c3-e2c2-47a7-8e82-0690af58efb9"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "01051ccd-7899-4e44-b512-d42c655dc3be"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "727dd331-c03c-415e-87e1-341b1666542c"
+      }
+    ],
+    "id": "72e21fad-1bd4-4ba6-986f-a208435ac0c5"
+  },
+  {
+    "key": "crab",
+    "name": "Crab",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/crab.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "f220c84e-249b-43a9-b649-ee2c647c6a56"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "11a1b17b-19c3-4658-85c6-243bae0cd861"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "9c6819e9-b12b-4702-bd68-e2ee30828543"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "76a1ee7b-e3f5-4ad6-8d5f-e5ec7953ce65"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "19c7a66b-518a-4d93-b85e-6daefdd96f39"
+      }
+    ],
+    "id": "4b3ddfe7-53a8-4760-8e9e-46be8add7632"
+  },
+  {
+    "key": "lobster",
+    "name": "Lobster",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/lobster.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "53690de1-db28-4b2c-a3fb-2f05e1109b3e"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "c865e155-701c-48cc-ad68-ceb8afc9e1df"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "d1329b5b-ed34-4869-9f4a-4b967cfe4b03"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "3fc00c99-8723-417e-bc29-0b16aa893ac9"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "40e3bf71-b54b-4161-a986-146fd6b89398"
+      }
+    ],
+    "id": "09844a8d-e35b-4c7b-b013-c718858e834b"
+  },
+  {
+    "key": "clownfish",
+    "name": "Clownfish",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/clownfish.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "e063a20d-487d-43d1-9816-4a573e651502"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "c6c494f8-e072-4283-8f19-ea5cef175488"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "aa40f5de-3918-46e5-add1-4873adef03d6"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "f587f558-e6f5-4943-bba0-6a1ce80ef2d1"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e619482e-f07f-45f7-b17d-f91106c74b84"
+      }
+    ],
+    "id": "fe418e4f-7283-413b-9425-0f466a2241b7"
+  },
+  {
+    "key": "jellyfish",
+    "name": "Jellyfish",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/jellyfish.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "37acfc51-910f-40d5-937f-09b235ef27a4"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "60f6d473-b5d1-4670-a423-94e192ad755f"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "fce68977-99e0-42c4-b725-dbe9d0a5f328"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "4c5155a8-50fd-4b41-bb03-b831ca1c572d"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "43e12d38-633e-4de7-8a31-d1a8adc36ef0"
+      }
+    ],
+    "id": "22899a2a-2b48-4f38-a121-2b73c11edea0"
+  },
+  {
+    "key": "polar_bear",
+    "name": "Polar Bear",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/polar_bear.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "bab6cd60-fb8b-4769-9d3b-9e037b71ca96"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "8b884ca4-09a1-469c-90f7-f1379e139006"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "14d1ecd9-80d7-4b0f-892f-32346092da8a"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "c2bdd2c2-5c2e-4a4e-9f51-f3f708c43fda"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "c7567c7c-3f0c-485b-9c48-c316979128f1"
+      }
+    ],
+    "id": "e7a1551c-0f39-41ef-a83b-362fb5e91f42"
+  },
+  {
+    "key": "penguin",
+    "name": "Penguin",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/penguin.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "bdc9e6dc-3545-48d5-9ef7-50f409814198"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f9db1910-2fda-443c-a001-db9697cea6a5"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "ac8c83ac-ade7-4859-9d12-5e19390e58db"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "dc1feb32-944c-4b4e-8a9e-2532787abd44"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "17990cad-f1c6-438e-b308-5dcf892ea2e2"
+      }
+    ],
+    "id": "6a99d0f3-661c-42d2-8352-e4b8f362c4eb"
+  },
+  {
+    "key": "walrus",
+    "name": "Walrus",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/walrus.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "52e00c9a-aa80-464d-a746-15e71c8e14f8"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1ee55001-2a3e-4191-9085-944bcbe26d7f"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "8d83cd05-4160-4889-a4f6-cf98981b9022"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "fdfaaad0-e001-4825-921b-7ef5c4001d5d"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "31742602-1b1a-47b8-8418-e3078cf8e793"
+      }
+    ],
+    "id": "6bd5c5af-d668-4000-ae37-1746f731cfaf"
+  },
+  {
+    "key": "arctic_fox",
+    "name": "Arctic Fox",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/arctic_fox.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "e92ea901-b055-4c7d-a191-b0c143b9fd2d"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "191b399c-540c-47f3-b1c4-c52eff0e7d91"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "10ee7c8f-e207-483a-ab8a-8227ed836406"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "f10377f9-a112-4ed7-8c61-b731e539edfa"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "adb033ca-a408-47dc-a9bb-6386eb78fb30"
+      }
+    ],
+    "id": "c076bd6f-470c-4bed-af36-8b315cd7de39"
+  },
+  {
+    "key": "snowy_owl",
+    "name": "Snowy Owl",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/snowy_owl.jpeg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "ebb7a892-b07f-4e05-b629-2039d8dcdab2"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "821ac9bf-7097-4753-b567-d5546ab80dbd"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "0fce11fe-6c9c-49ee-b7d9-a1278b87659b"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "eea41b95-2408-4db5-a8ae-ee4c5c3cc531"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "5caf6a97-d421-4554-a1b1-536a130852a5"
+      }
+    ],
+    "id": "eff7b5c0-b9b9-411e-babd-06ba41103550"
+  },
+  {
+    "key": "caribou",
+    "name": "Caribou",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/caribou.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a4b38c11-8764-49ff-a6ac-d3ea11e0dfec"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "333be6b5-3cb0-4a64-8fd5-4750635a6886"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "80ffe658-5fa6-4f89-9eb8-fb9ade5fc008"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "40107416-28ad-4426-8360-0976e9fe779a"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "350a4727-e951-4d65-bac9-f959b1e96803"
+      }
+    ],
+    "id": "3773e2a8-46c1-49e2-b839-fc41f1b0cb08"
+  },
+  {
+    "key": "musk_ox",
+    "name": "Musk Ox",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/musk_ox.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a96aea2b-e993-4421-ab7c-2cce2f712444"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "a2409043-484e-4dae-aa0a-c121c63116dc"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "87dd663b-f396-4eb9-bcc8-c87f2c363633"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "f9ca99d5-c1ec-4203-a678-33ba0e1c88ca"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "373a6792-ccb3-4f94-a575-b0a9260b29d9"
+      }
+    ],
+    "id": "0e203099-0989-43de-a48f-ac6a3a404eaf"
+  },
+  {
+    "key": "reindeer",
+    "name": "Reindeer",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/reindeer.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "523bd994-2b33-4217-9c68-9d4fb75f1b95"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "dff0976f-5775-4631-9e44-156f28612094"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "4089c4a0-0e38-49cd-a9dd-6a72050529e2"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "45b61f72-a72b-42a4-8ddf-7d35f8c133bd"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "2951108b-bb31-486c-9bea-b45db7260a66"
+      }
+    ],
+    "id": "8b172238-11f3-4276-8e9b-7b0a1b619ea6"
+  },
+  {
+    "key": "snow_leopard",
+    "name": "Snow Leopard",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/snow_leopard.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "be30fce5-327f-4cdc-b0c6-17f99878a059"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "610582f5-bea0-4c67-a55e-362fc19ef10c"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "5c3b5bcd-ef54-411d-9364-0536a56286e1"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "5780f059-c7d4-4029-b00a-a07f5b557203"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "0bfb1425-afb3-4c85-baf5-c7b57fbe4b44"
+      }
+    ],
+    "id": "c61e01f0-dd33-4702-96b0-b69bc3f1c3aa"
+  },
+  {
+    "key": "yak",
+    "name": "Yak",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/yak.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "7fdcc13a-a2fc-47ae-b8a0-3db1fc8dd4ff"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "a852b4aa-6fae-4a6b-9077-7a512169e4bc"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "accc294e-fa9e-4eb2-89c9-be1b9e981860"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "d084e0bf-d3b7-4e06-82c5-dd06fcefe833"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "5f7e218f-35f2-4a6b-bdcb-251debbc0134"
+      }
+    ],
+    "id": "578ff8ae-c719-4bd5-84ae-b57da5c6a1bb"
+  },
+  {
+    "key": "arctic_hare",
+    "name": "Arctic Hare",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/arctic_hare.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "480e931c-a8cf-4346-8970-d74364a6811e"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "2978bf55-8928-4d9d-998a-1561585cf00e"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "468bcbc2-e6b2-4b01-9a44-4dffe8d9f741"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "5ec8e875-2498-48a5-98c5-cf3012cc02f9"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "863be35b-bf97-4197-a59a-6000ae22eb39"
+      }
+    ],
+    "id": "0e772ae5-5ccb-4e3f-b350-b16a9522c4e5"
+  },
+  {
+    "key": "ptarmigan",
+    "name": "Ptarmigan",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/ptarmigan.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a413f063-5f02-4874-a177-1e65655b3ab2"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f532545c-1816-4f0d-92fd-012a9d486620"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "9291b1e6-c638-4126-b0bd-dd5ecae3010b"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "7e814d50-8c18-406d-9189-3a18a9fa6145"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "80861820-2db4-4c7f-be14-f2e0e67b265b"
+      }
+    ],
+    "id": "5aee2217-fc99-49a3-8e43-cbdb1f8c03b2"
+  },
+  {
+    "key": "beluga_whale",
+    "name": "Beluga Whale",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/beluga_whale.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "3ed95fb1-ac85-4740-ae80-a8d02ab4a328"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "82b40084-f537-4994-bf3a-31ad939c2b7f"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "e5ebd226-276f-42f6-a8a4-68abc4e92771"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "11354316-8840-49a3-9f8f-1356cd30e1eb"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "81ca6b99-ade9-4c2a-b66c-eb5e9b513aa3"
+      }
+    ],
+    "id": "76a65779-907f-4448-b307-9ef7a542cc39"
+  },
+  {
+    "key": "narwhal",
+    "name": "Narwhal",
+    "category": "Fish",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/narwhal.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "e8ebc597-4e4a-40c3-884c-17e82dc55205"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "7aa9561e-bf36-4503-8bbc-b47afe71abd9"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "5b3829df-8e41-47c3-a912-b2df71aef343"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "52067f26-41e7-4a46-895b-c12b6cc34f66"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "e445623c-b3a2-462a-9d78-22d1142c9e4e"
+      }
+    ],
+    "id": "df451f8f-9033-478c-95b0-4b7cd3a5dea4"
+  },
+  {
+    "key": "harbor_seal",
+    "name": "Harbor Seal",
+    "category": "Other",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/harbor_seal.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "e1931fed-213a-437d-aeac-8ce9bae45549"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "30003c70-2df2-47c6-848f-95f1e95c44ee"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "0889400c-ca75-465b-abc4-39f7dcb600b8"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "d8f8ff5a-5382-4fab-871d-d23fee374b7c"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "07783839-70d5-4a61-b4d3-078cdf9ad4fa"
+      }
+    ],
+    "id": "6927c585-54aa-49f9-88ef-4b48b61758f8"
+  },
+  {
+    "key": "snow_goose",
+    "name": "Snow Goose",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/snow_goose.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "198d4be2-b12b-4d7c-a571-ab93a0843e43"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "75c7f543-921e-48fe-a2da-dd6b2a00312b"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "72af6465-ec5e-4955-b31f-241ea36ed8c0"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "11b31749-6b7a-4e03-96d5-16c17080b2ae"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "f565324e-dd79-4dad-a71f-62b1c56cc2c7"
+      }
+    ],
+    "id": "ba518599-2af2-4427-985b-650ad606496e"
+  },
+  {
+    "key": "ermine",
+    "name": "Ermine",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/ermine.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "ce4fcca8-685f-4f39-98b7-e636b6de95ed"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "8f24e86d-c7c9-4c88-bb69-ba84a1cf7583"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "86da5a51-83ec-4da9-a525-712d67c692bd"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "9080a377-811a-49ab-b024-4ffb45e3db4f"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "1696dc1f-1bdc-4147-96c1-7cb05666b887"
+      }
+    ],
+    "id": "c5d6b79a-56e1-4ace-b7ae-8ce7a1e9c1a3"
+  },
+  {
+    "key": "wolverine",
+    "name": "Wolverine",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/wolverine.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "88741902-e42e-47aa-9c86-8102cef2be1a"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "d34e0b17-b255-475b-85a8-dbd9947348c3"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "f4329484-97d1-47c0-ae56-bdf03bc4be7a"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "38529ee7-60af-406f-86cc-17f92c338432"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "c797bfda-d922-461d-89ae-39e9246f3fec"
+      }
+    ],
+    "id": "420f0af5-5c86-4665-a4bf-74efd94f11f6"
+  },
+  {
+    "key": "moose",
+    "name": "Moose",
+    "category": "Mammal",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/moose.webp",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a89d044f-4cd8-462c-9236-bf67cd968b7b"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "0b6eac6f-d840-432c-a1c6-223b90ee33dd"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "c6e2c2c0-80c7-4b84-9b9a-3b3b7f61b9f3"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "a08a71a2-f951-47c9-9872-85b83e74b38a"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "ba8acfad-7b72-4836-a0c2-28e870a481b7"
+      }
+    ],
+    "id": "ec60dd85-3dc0-4ff7-866d-5ba301b7b51c"
+  },
+  {
+    "key": "snow_bunting",
+    "name": "Snow Bunting",
+    "category": "Bird",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/snow_bunting.jpg",
+    "traits": [
+      {
+        "title": "Speed",
+        "value": 60,
+        "max": 120,
+        "unit": "km/h",
+        "id": "a5feda91-0284-4156-83b5-4bbac52b8ea3"
+      },
+      {
+        "title": "Attack",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "3a74e338-564f-4964-b65d-34f8a2decff9"
+      },
+      {
+        "title": "Defense",
+        "value": 65,
+        "max": 100,
+        "unit": null,
+        "id": "f28bf70b-141e-4705-9b17-16cc5fd4ba76"
+      },
+      {
+        "title": "Agility",
+        "value": 60,
+        "max": 100,
+        "unit": null,
+        "id": "aa44b6f7-65cc-4fc1-a6d4-bf6c276077e0"
+      },
+      {
+        "title": "Endurance",
+        "value": 70,
+        "max": 100,
+        "unit": null,
+        "id": "426c4de6-3a28-4388-b450-c83f779d0386"
+      }
+    ],
+    "id": "0b0a39c8-bd5e-4d9e-9eac-55e6ce758254"
+  }
+]
