@@ -1,0 +1,422 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "animal": {
+      "id": "cobra",
+      "name": "Cobra",
+      "scientificName": "Naja spp.",
+      "category": "Reptile",
+      "description": "Venomous snakes known for flaring their neck skin into a hood when threatened."
+    },
+    "animalImageData": "base64(cobra.jpg)",
+    "physicalInfo": {
+      "size": { "height": "1.2–3.7 m", "weight": "Up to 9 kg" },
+      "lifespan": { "wild": "12–20 years", "captivity": "Up to 25 years" },
+      "diet": "Carnivore (small mammals, birds, other snakes)",
+      "activity": "Diurnal / Nocturnal (varies by species)"
+    },
+    "habitat": {
+      "nativeRegions": ["Africa", "Asia"],
+      "preferredEnvironment": ["Forests", "Savannahs", "Grasslands", "Urban areas"]
+    },
+    "conservation": {
+      "status": "Least Concern to Vulnerable (varies by species)",
+      "threats": ["Habitat loss", "Persecution by humans", "Illegal wildlife trade"]
+    },
+    "funFact": "The King Cobra is the longest venomous snake and can ‘stand up’ to look a human in the eye.",
+    "stats": {
+      "powerLevelStars": 6,
+      "attack": 85,
+      "defense": 40,
+      "biteForcePSI": 0,
+      "speed": { "value": 20, "unit": "km/h" },
+      "stamina": 60,
+      "intelligence": 40,
+      "agility": 80,
+      "endurance": 65
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Neurotoxic (some species also cytotoxic)",
+      "potency": "Highly potent",
+      "effects": ["Paralysis", "Respiratory failure", "Tissue necrosis (some species)", "Death if untreated"]
+    },
+    "dangerLevel": "High",
+    "distinctiveFeatures": ["Expandable hood", "Round pupils", "Smooth scales", "Prominent threat display"],
+    "behavior": {
+      "socialHabits": "Solitary; avoids humans when possible.",
+      "matingBehavior": "Seasonal breeding; males may wrestle.",
+      "territorialBehavior": "Defensive displays and hissing when cornered."
+    },
+    "bestTimeToSpot": "Early morning or late afternoon; varies by species and climate.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Elapidae",
+      "genus": "Naja",
+      "species": "spp."
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "animal": {
+      "id": "poison-dart-frog",
+      "name": "Poison Dart Frog",
+      "scientificName": "Dendrobatidae",
+      "category": "Amphibian",
+      "description": "Small, brightly colored frogs with potent skin toxins used by indigenous hunters on blow darts."
+    },
+    "animalImageData": "base64(poison-dart-frog.jpg)",
+    "physicalInfo": {
+      "size": { "height": "1.5–6 cm", "weight": "< 30 g" },
+      "lifespan": { "wild": "4–6 years", "captivity": "Up to 10 years" },
+      "diet": "Insectivore (ants, termites, small invertebrates)",
+      "activity": "Diurnal"
+    },
+    "habitat": {
+      "nativeRegions": ["Central America", "South America"],
+      "preferredEnvironment": ["Tropical rainforests", "Humid lowlands"]
+    },
+    "conservation": {
+      "status": "Vulnerable",
+      "threats": ["Habitat loss", "Pollution", "Climate change", "Illegal pet trade"]
+    },
+    "funFact": "The golden poison frog’s toxins can kill up to 10 adult humans.",
+    "stats": {
+      "powerLevelStars": 3,
+      "attack": 90,
+      "defense": 20,
+      "biteForcePSI": 0,
+      "speed": { "value": 8, "unit": "km/h" },
+      "stamina": 40,
+      "intelligence": 30,
+      "agility": 70,
+      "endurance": 40
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Dermal alkaloids (batrachotoxin)",
+      "potency": "Extremely potent",
+      "effects": ["Paralysis", "Cardiac arrhythmia", "Respiratory failure", "Potentially fatal if ingested"]
+    },
+    "dangerLevel": "High (if handled/ingested)",
+    "distinctiveFeatures": ["Aposematic bright colors", "Smooth moist skin", "Tiny size"],
+    "behavior": {
+      "socialHabits": "Generally solitary; active by day.",
+      "matingBehavior": "Territorial males call; parental care of eggs/tadpoles.",
+      "territorialBehavior": "Males defend small territories with vocalizations."
+    },
+    "bestTimeToSpot": "Morning after rainfall in humid forests.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Dendrobatidae",
+      "genus": "Dendrobates",
+      "species": "spp."
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "animal": {
+      "id": "brown-recluse",
+      "name": "Brown Recluse Spider",
+      "scientificName": "Loxosceles reclusa",
+      "category": "Arachnid",
+      "description": "Shy spider whose bite can cause necrotic skin lesions; prefers dark, undisturbed places."
+    },
+    "animalImageData": "base64(brown-recluse.jpg)",
+    "physicalInfo": {
+      "size": { "height": "6–20 mm", "weight": "< 1 g" },
+      "lifespan": { "wild": "1–2 years", "captivity": "Up to 4 years" },
+      "diet": "Insects and other arthropods",
+      "activity": "Nocturnal"
+    },
+    "habitat": {
+      "nativeRegions": ["United States (Midwest, South)"],
+      "preferredEnvironment": ["Dark indoor spaces", "Woodpiles", "Basements", "Sheds"]
+    },
+    "conservation": {
+      "status": "Least Concern",
+      "threats": ["Predation", "Habitat disturbance"]
+    },
+    "funFact": "Typically bites only when trapped against skin, despite a fearsome reputation.",
+    "stats": {
+      "powerLevelStars": 2,
+      "attack": 75,
+      "defense": 10,
+      "biteForcePSI": 0,
+      "speed": { "value": 3, "unit": "km/h" },
+      "stamina": 30,
+      "intelligence": 25,
+      "agility": 70,
+      "endurance": 35
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Cytotoxic/necrotic (sphingomyelinase D)",
+      "potency": "Medically significant",
+      "effects": ["Local necrosis", "Ulceration", "Fever and malaise", "Rare hemolysis"]
+    },
+    "dangerLevel": "Moderate",
+    "distinctiveFeatures": ["Violin-shaped marking", "Uniform legs", "Six eyes"],
+    "behavior": {
+      "socialHabits": "Solitary; hides in cluttered, dark areas.",
+      "matingBehavior": "Seasonal; females produce egg sacs.",
+      "territorialBehavior": "Non-territorial; retreats rather than confronts."
+    },
+    "bestTimeToSpot": "Nighttime indoors; check storage areas.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Araneae",
+      "family": "Sicariidae",
+      "genus": "Loxosceles",
+      "species": "reclusa"
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000004",
+    "animal": {
+      "id": "lonomia-obliqua",
+      "name": "Lonomia Obliqua",
+      "scientificName": "Lonomia obliqua",
+      "category": "Insect",
+      "description": "One of the most venomous caterpillars in the world. Its venom can cause severe internal bleeding and even death."
+    },
+    "animalImageData": "base64(lonomia-obliqua.jpg)",
+    "physicalInfo": {
+      "size": { "height": "4–7 cm", "weight": "Few grams" },
+      "lifespan": { "wild": "Few weeks (larva)", "captivity": "N/A" },
+      "diet": "Leaves",
+      "activity": "Diurnal"
+    },
+    "habitat": {
+      "nativeRegions": ["South America (Brazil)"],
+      "preferredEnvironment": ["Forests", "Trees", "Vegetation"]
+    },
+    "conservation": {
+      "status": "Not Evaluated",
+      "threats": ["Deforestation", "Eradication by humans"]
+    },
+    "funFact": "Its venom contains anticoagulants that cause internal hemorrhaging.",
+    "stats": {
+      "powerLevelStars": 2,
+      "attack": 85,
+      "defense": 20,
+      "biteForcePSI": 0,
+      "speed": { "value": 100, "unit": "m/h" },
+      "stamina": 15,
+      "intelligence": 10,
+      "agility": 20,
+      "endurance": 20
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Hemotoxic/anticoagulant",
+      "potency": "Potentially lethal",
+      "effects": ["Severe bleeding", "DIC", "Kidney failure", "Shock"]
+    },
+    "dangerLevel": "High",
+    "distinctiveFeatures": ["Camouflaged green spines", "Clustered movement"],
+    "behavior": {
+      "socialHabits": "Often in groups on tree trunks.",
+      "matingBehavior": "Standard moth reproduction after metamorphosis.",
+      "territorialBehavior": "Non-territorial; defensive spines."
+    },
+    "bestTimeToSpot": "During daylight on trees in South America.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Saturniidae",
+      "genus": "Lonomia",
+      "species": "obliqua"
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000005",
+    "animal": {
+      "id": "deathstalker",
+      "name": "Deathstalker Scorpion",
+      "scientificName": "Leiurus quinquestriatus",
+      "category": "Arachnid",
+      "description": "One of the most dangerous scorpions. Found in deserts, its venom can be fatal to vulnerable humans."
+    },
+    "animalImageData": "base64(deathstalker.jpg)",
+    "physicalInfo": {
+      "size": { "height": "5–11 cm", "weight": "1–5 g" },
+      "lifespan": { "wild": "4–5 years", "captivity": "Up to 8 years" },
+      "diet": "Insects, small spiders, arthropods",
+      "activity": "Nocturnal"
+    },
+    "habitat": {
+      "nativeRegions": ["North Africa", "Middle East"],
+      "preferredEnvironment": ["Deserts", "Scrublands", "Rocky areas"]
+    },
+    "conservation": {
+      "status": "Not Evaluated",
+      "threats": ["Habitat destruction", "Collection for venom research"]
+    },
+    "funFact": "Its venom is studied for potential cancer and diabetes treatments.",
+    "stats": {
+      "powerLevelStars": 3,
+      "attack": 92,
+      "defense": 25,
+      "biteForcePSI": 0,
+      "speed": { "value": 8, "unit": "km/h" },
+      "stamina": 35,
+      "intelligence": 15,
+      "agility": 85,
+      "endurance": 40
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Neurotoxic",
+      "potency": "Potentially lethal",
+      "effects": ["Intense pain", "Convulsions", "Respiratory distress", "Arrhythmia"]
+    },
+    "dangerLevel": "High",
+    "distinctiveFeatures": ["Pale yellow color", "Thin pincers", "Thick stinger"],
+    "behavior": {
+      "socialHabits": "Solitary and aggressive.",
+      "matingBehavior": "Courtship dance with stinger contact.",
+      "territorialBehavior": "Defends burrows; ambush predator."
+    },
+    "bestTimeToSpot": "At night with UV light (they fluoresce).",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Scorpiones",
+      "family": "Buthidae",
+      "genus": "Leiurus",
+      "species": "quinquestriatus"
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000006",
+    "animal": {
+      "id": "stonefish",
+      "name": "Stonefish",
+      "scientificName": "Synanceia verrucosa",
+      "category": "Fish",
+      "description": "The most venomous fish. Camouflages as a rock or coral, ambushing prey and posing a threat to humans."
+    },
+    "animalImageData": "base64(stonefish.jpg)",
+    "physicalInfo": {
+      "size": { "height": "30–40 cm", "weight": "1–2.5 kg" },
+      "lifespan": { "wild": "5–10 years", "captivity": "10–15 years" },
+      "diet": "Small fish and crustaceans",
+      "activity": "Primarily nocturnal"
+    },
+    "habitat": {
+      "nativeRegions": ["Indo-Pacific", "Australia"],
+      "preferredEnvironment": ["Shallow waters", "Coral reefs", "Sea floors"]
+    },
+    "conservation": {
+      "status": "Least Concern",
+      "threats": ["Habitat destruction", "Bycatch"]
+    },
+    "funFact": "Its venom can kill a human in under an hour if untreated.",
+    "stats": {
+      "powerLevelStars": 4,
+      "attack": 95,
+      "defense": 70,
+      "biteForcePSI": 0,
+      "speed": { "value": 2, "unit": "km/h" },
+      "stamina": 45,
+      "intelligence": 20,
+      "agility": 10,
+      "endurance": 50
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Cytotoxic/neurotoxic",
+      "potency": "Potentially lethal",
+      "effects": ["Excruciating pain", "Tissue necrosis", "Paralysis", "Shock/heart failure"]
+    },
+    "dangerLevel": "High",
+    "distinctiveFeatures": ["Rock-like camouflage", "Venomous dorsal spines"],
+    "behavior": {
+      "socialHabits": "Solitary ambush predator.",
+      "matingBehavior": "Seasonal spawning in reefs.",
+      "territorialBehavior": "Sits motionless, blending in."
+    },
+    "bestTimeToSpot": "At low tide in shallow reef areas.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Scorpaeniformes",
+      "family": "Synanceiidae",
+      "genus": "Synanceia",
+      "species": "verrucosa"
+    }
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000007",
+    "animal": {
+      "id": "box-jellyfish",
+      "name": "Box Jellyfish",
+      "scientificName": "Chironex fleckeri",
+      "category": "Cnidarian",
+      "description": "One of the most venomous animals. Transparent bell and long tentacles deliver deadly stings."
+    },
+    "animalImageData": "base64(box-jellyfish.jpg)",
+    "physicalInfo": {
+      "size": { "height": "Up to 30 cm bell", "weight": "Up to 2 kg" },
+      "lifespan": { "wild": "< 1 year", "captivity": "Rarely kept" },
+      "diet": "Small fish, shrimp, plankton",
+      "activity": "Diurnal"
+    },
+    "habitat": {
+      "nativeRegions": ["Northern Australia", "Southeast Asia"],
+      "preferredEnvironment": ["Coastal waters", "Mangroves", "Tropical seas"]
+    },
+    "conservation": {
+      "status": "Not Evaluated",
+      "threats": ["Climate change", "Habitat shifts"]
+    },
+    "funFact": "Its venom can kill a human in under 5 minutes in extreme cases.",
+    "stats": {
+      "powerLevelStars": 5,
+      "attack": 98,
+      "defense": 15,
+      "biteForcePSI": 0,
+      "speed": { "value": 7, "unit": "km/h" },
+      "stamina": 25,
+      "intelligence": 5,
+      "agility": 20,
+      "endurance": 20
+    },
+    "venom": {
+      "hasVenom": true,
+      "type": "Neurotoxic/cardiotoxic",
+      "potency": "Extremely lethal",
+      "effects": ["Cardiac arrest", "Respiratory failure", "Excruciating pain", "Death within minutes"]
+    },
+    "dangerLevel": "Extreme",
+    "distinctiveFeatures": ["Cube-shaped bell", "Transparent body", "Long tentacles"],
+    "behavior": {
+      "socialHabits": "Drifts in open water; some clustering.",
+      "matingBehavior": "External fertilization in open water.",
+      "territorialBehavior": "Non-territorial; passive drift."
+    },
+    "bestTimeToSpot": "During warm season (October–May) in shallow waters.",
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Cnidaria",
+      "class": "Cubozoa",
+      "order": "Carybdeida",
+      "family": "Chirodropidae",
+      "genus": "Chironex",
+      "species": "fleckeri"
+    }
+  }
+]

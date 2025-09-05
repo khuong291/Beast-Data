@@ -44,6 +44,63 @@
     "id": "b8c1262b-3c1a-4303-b91a-90a30a3bd1f4"
   },
   {
+    "key": "green-anaconda",
+    "name": "Green Anaconda",
+    "category": "Reptile",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/green-anaconda.jpeg",
+    "traits": [
+      {
+        "title": "Attack",
+        "value": 80,
+        "max": 100,
+        "unit": null,
+        "id": "3eac1c60-5c21-4b56-8e8a-5f4de5a6a111"
+      },
+      {
+        "title": "Defense",
+        "value": 85,
+        "max": 100,
+        "unit": null,
+        "id": "7b8f205a-0fd7-4217-96d1-82427bb4a222"
+      },
+      {
+        "title": "Speed",
+        "value": 8,
+        "max": 120,
+        "unit": "km/h",
+        "id": "cb12d3e9-29c3-49f0-93f5-d87408a8a333"
+      },
+      {
+        "title": "Agility",
+        "value": 30,
+        "max": 100,
+        "unit": null,
+        "id": "9e52ac04-9b8d-4b70-a661-4b5821c6a444"
+      },
+      {
+        "title": "Endurance",
+        "value": 80,
+        "max": 100,
+        "unit": null,
+        "id": "ab1b2566-0a6e-4a47-b8bb-3e1e7c8ad555"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000003",
+    "description": "One of the heaviest and longest snakes in the world.",
+    "scientificName": "Eunectes murinus",
+    "nativeRegions": ["South America"],
+    "preferredEnvironment": ["Swamps", "Marshes", "Slow rivers"],
+    "conservationStatus": "Not Evaluated",
+    "threats": ["Habitat destruction", "Hunting for skin"],
+    "funFact": "Can stay submerged for up to 10 minutes.",
+    "dangerLevel": "High",
+    "distinctiveFeatures": [
+      "Olive-green body with black blotches",
+      "Eyes on top of head",
+      "Powerful constriction"
+    ]
+  },
+  {
     "key": "elephant",
     "name": "Elephant",
     "category": "Mammal",
