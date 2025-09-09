@@ -896,7 +896,7 @@
     "key": "horse",
     "name": "Horse",
     "category": "Mammal",
-    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/horse.webp",
+    "cover": "https://raw.githubusercontent.com/khuong291/beast-data/refs/heads/main/images/horse.png",
     "traits": [
       {
         "title": "Speed",
